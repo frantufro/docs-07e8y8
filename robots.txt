@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-smva4z.yoursingles.online/sitemap.xml
